@@ -1,24 +1,20 @@
  ![DataLOGO](App/logdat.JPG)
  
- # Ésta es una estructura de directorio de proyecto general para la publicacion de resultados de los proyectos pilotos.
- 
- A continuacion se define una estructura para documentar este primer README, el cual es introductorio sobre el repositorio
+ # Monitoreo exploratorio de centros de investigación AGROSAVIA basados en imágenes satelitales espectrales
  
 # ¿Qué es el proyecto?
 
-En esta area va una descripción breve del proyecto, sus caracteristicas y funcionamiento. 
+Caracterizar la disponibilidad, composición y estado de suelos agrícolas es una actividad de alto consumo en capital humano, dinero y tiempo. Requiere del continuo monitoreo de considerables extensiones de tierra que es impráctico por medio de métodos convencionales. La necesidad de herramientas que permitan optimizar el uso de estos recursos escasos y costosos se acentuó con la actual pandemia que vive nuestro país. Desde AGROSAVIA, hemos identificado la necesidad de realizar una búsqueda, y posterior almacenamiento de un archivo de imágenes con información espectral de los diferentes sensores instalados en plataformas aerotransportadas (satélites, drones, aviones, etc). Las zonas de interés corresponden a los diferentes centros de investigación con los que cuenta la corporación. La recolección de estas imágenes permitirá la construcción de posteriores herramientas que ayuden en la toma de decisiones sobre el uso del suelo disponible para el quehacer de investigación de la corporación.
+
 
 # ¿Qué queremos en este proyecto?
 
-En esta area se especifica los objetivos y el alcance del proyecto.
+Acceder y almacenar imágenes multiespectrales satelitales de los diferentes centros de investigación de Agrosavia.
+
 
 # Contenido del repositorio
 
-En esta parte se especifica la estructura de carpetas del repositorio y una descripción breve de cada una a manera de índice.
-
-1. App                   carpeta para el Código del proyecto
-2. Datos de Ejemplo      Carpeta donde se alojan ejemplos de los datos, tanto lo iniciales (fuentes de Datos), como los finales o los obtenidos (procesados)
-3. Documentación         Carpeta que contiene toda la documentación del Proyecto.
+Este repositorio contiene cuadernos de trabajo en Phyton que describen paso a paso el proceso de consulta de imágenes satelitales Landsat disponibles a través de la plataforma Planetary Computer de Microsoft. Cada uno de estos cuadernos muestra los resultados para un centro de investigación diferente de nuestra corporación. Los archivos diponibles son [Centro de investigación 0](https://github.com/AGROSAVIA-EXTERNOS/AgClust/blob/main/Documentacion/Model/CI0.ipynb), [1](https://github.com/AGROSAVIA-EXTERNOS/AgClust/blob/main/Documentacion/Model/main.ipynb) y [6](https://github.com/AGROSAVIA-EXTERNOS/AgClust/blob/main/Documentacion/Model/CI6.ipynb).
 
 
 
