@@ -6,7 +6,7 @@
 
 Caracterizar la disponibilidad, composición y estado de suelos agrícolas es una actividad de alto consumo en capital humano, dinero y tiempo. Requiere del continuo monitoreo de considerables extensiones de tierra que es impráctico por medio de métodos convencionales. La necesidad de herramientas que permitan optimizar el uso de estos recursos escasos y costosos se acentuó con la actual pandemia que vive nuestro país. Desde AGROSAVIA, hemos identificado la necesidad de realizar una búsqueda, y posterior almacenamiento de un archivo de imágenes con información espectral de los diferentes sensores instalados en plataformas aerotransportadas (satélites, drones, aviones, etc). Las zonas de interés corresponden a los diferentes centros de investigación con los que cuenta la corporación. La recolección de estas imágenes permitirá la construcción de posteriores herramientas que ayuden en la toma de decisiones sobre el uso del suelo disponible para el quehacer de investigación de la corporación.
 
-Este proyecto es un trabajo colaborativo con el profesor [Hector Vargas](https://scholar.google.com/citations?user=T6tNkE4AAAAJ&hl=es), quien a adaptado las rutinas disponibles de super-resolución de bandas espectrales en MatLab.
+Este proyecto es un trabajo colaborativo con el profesor [Hector Vargas](https://scholar.google.com/citations?user=T6tNkE4AAAAJ&hl=es), quien ha adaptado las rutinas disponibles de super-resolución de bandas espectrales en MatLab.
 
 # ¿Qué queremos en este proyecto?
 
