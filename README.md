@@ -1,4 +1,4 @@
- ![DataLOGO](App/logdat.JPG)
+ ![DataLOGO](App/logdat.jpg)
  
  # Monitoreo exploratorio de centros de investigación AGROSAVIA basados en imágenes satelitales espectrales
  
